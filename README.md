@@ -35,4 +35,7 @@ The main aim of this project is to analyze disaster data from Figure Eight to bu
 
 4. Check Example.JPG and Example1.JPG for examples
 ![Example](Example.JPG)
+
+When submitted a query 'There is an earthquake. Please help'. It shows the results like this
+
 ![When submitted a query](Example1.JPG)
